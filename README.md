@@ -4,3 +4,6 @@ Action phare du 4° Plan National Santé Environnement, le GD4H vise à permettr
 
 # L'objet du défi Localis-eau
 Mieux mobiliser l’historique des données de qualité de l’eau pour la recherche en épidémiologie
+
+## Language utilisé
+![alt text](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
